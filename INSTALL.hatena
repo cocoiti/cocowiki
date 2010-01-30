@@ -1,0 +1,11 @@
+* INSTALL
+add hatena syntax lib
+>|
+sudo pear channel-discover openpear.org
+sudo pear install openpear/HatenaSyntax-beta 
+|<
+
+set git repository
+{{{
+
+}}}

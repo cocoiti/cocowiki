@@ -1,0 +1,9 @@
+{% extends 'layout.html' %}
+{% block title %}
+  {{pagename}}
+{% endblock %}
+{% block content %}
+  <h1>{{pagename}}</h1>
+  {% block wiki %}
+  {% endblock %}
+{% endblock %}

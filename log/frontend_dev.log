@@ -1,0 +1,1234 @@
+Jan 31 00:07:28 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 00:07:28 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 00:07:28 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 00:07:28 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 00:08:57 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 00:08:57 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 00:08:57 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 00:08:57 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 00:10:42 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 00:10:42 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 00:10:42 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 00:10:42 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 00:17:03 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 00:17:03 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 00:17:03 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 00:17:03 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 00:17:03 symfony [warning] {sfWebDebugLogger}  Warning at /usr/share/pear/symfony/view/sfView.class.php on line 91 (Missing argument 1 for sfView::__construct(), called in /home/cocoiti/cocowiki/apps/frontend/modules/wiki/actions/actions.class.php on line 21 and defined)
+Jan 31 00:17:03 symfony [warning] {sfWebDebugLogger}  Warning at /usr/share/pear/symfony/view/sfView.class.php on line 91 (Missing argument 2 for sfView::__construct(), called in /home/cocoiti/cocowiki/apps/frontend/modules/wiki/actions/actions.class.php on line 21 and defined)
+Jan 31 00:17:03 symfony [warning] {sfWebDebugLogger}  Warning at /usr/share/pear/symfony/view/sfView.class.php on line 91 (Missing argument 3 for sfView::__construct(), called in /home/cocoiti/cocowiki/apps/frontend/modules/wiki/actions/actions.class.php on line 21 and defined)
+Jan 31 00:17:03 symfony [warning] {sfWebDebugLogger}  Warning at /usr/share/pear/symfony/view/sfView.class.php on line 91 (Missing argument 4 for sfView::__construct(), called in /home/cocoiti/cocowiki/apps/frontend/modules/wiki/actions/actions.class.php on line 21 and defined)
+Jan 31 00:17:03 symfony [notice] {sfWebDebugLogger}  Notice at /usr/share/pear/symfony/view/sfView.class.php on line 93 (Undefined variable: context)
+Jan 31 00:17:03 symfony [notice] {sfWebDebugLogger}  Notice at /usr/share/pear/symfony/view/sfView.class.php on line 93 (Undefined variable: moduleName)
+Jan 31 00:17:03 symfony [notice] {sfWebDebugLogger}  Notice at /usr/share/pear/symfony/view/sfView.class.php on line 93 (Undefined variable: actionName)
+Jan 31 00:17:03 symfony [notice] {sfWebDebugLogger}  Notice at /usr/share/pear/symfony/view/sfView.class.php on line 93 (Undefined variable: viewName)
+Jan 31 00:18:15 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 00:18:15 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 00:18:15 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 00:18:15 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 00:18:15 symfony [warning] {sfWebDebugLogger}  Warning at /usr/share/pear/symfony/view/sfView.class.php on line 91 (Missing argument 1 for sfView::__construct(), called in /home/cocoiti/cocowiki/apps/frontend/modules/wiki/actions/actions.class.php on line 21 and defined)
+Jan 31 00:18:15 symfony [warning] {sfWebDebugLogger}  Warning at /usr/share/pear/symfony/view/sfView.class.php on line 91 (Missing argument 2 for sfView::__construct(), called in /home/cocoiti/cocowiki/apps/frontend/modules/wiki/actions/actions.class.php on line 21 and defined)
+Jan 31 00:18:15 symfony [warning] {sfWebDebugLogger}  Warning at /usr/share/pear/symfony/view/sfView.class.php on line 91 (Missing argument 3 for sfView::__construct(), called in /home/cocoiti/cocowiki/apps/frontend/modules/wiki/actions/actions.class.php on line 21 and defined)
+Jan 31 00:18:15 symfony [warning] {sfWebDebugLogger}  Warning at /usr/share/pear/symfony/view/sfView.class.php on line 91 (Missing argument 4 for sfView::__construct(), called in /home/cocoiti/cocowiki/apps/frontend/modules/wiki/actions/actions.class.php on line 21 and defined)
+Jan 31 00:18:15 symfony [notice] {sfWebDebugLogger}  Notice at /usr/share/pear/symfony/view/sfView.class.php on line 93 (Undefined variable: context)
+Jan 31 00:18:15 symfony [notice] {sfWebDebugLogger}  Notice at /usr/share/pear/symfony/view/sfView.class.php on line 93 (Undefined variable: moduleName)
+Jan 31 00:18:15 symfony [notice] {sfWebDebugLogger}  Notice at /usr/share/pear/symfony/view/sfView.class.php on line 93 (Undefined variable: actionName)
+Jan 31 00:18:15 symfony [notice] {sfWebDebugLogger}  Notice at /usr/share/pear/symfony/view/sfView.class.php on line 93 (Undefined variable: viewName)
+Jan 31 00:18:51 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 00:18:51 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 00:18:51 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 00:18:51 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 00:18:51 symfony [warning] {sfWebDebugLogger}  Warning at /usr/share/pear/symfony/view/sfView.class.php on line 91 (Missing argument 1 for sfView::__construct(), called in /home/cocoiti/cocowiki/apps/frontend/modules/wiki/actions/actions.class.php on line 21 and defined)
+Jan 31 00:18:51 symfony [warning] {sfWebDebugLogger}  Warning at /usr/share/pear/symfony/view/sfView.class.php on line 91 (Missing argument 2 for sfView::__construct(), called in /home/cocoiti/cocowiki/apps/frontend/modules/wiki/actions/actions.class.php on line 21 and defined)
+Jan 31 00:18:51 symfony [warning] {sfWebDebugLogger}  Warning at /usr/share/pear/symfony/view/sfView.class.php on line 91 (Missing argument 3 for sfView::__construct(), called in /home/cocoiti/cocowiki/apps/frontend/modules/wiki/actions/actions.class.php on line 21 and defined)
+Jan 31 00:18:51 symfony [warning] {sfWebDebugLogger}  Warning at /usr/share/pear/symfony/view/sfView.class.php on line 91 (Missing argument 4 for sfView::__construct(), called in /home/cocoiti/cocowiki/apps/frontend/modules/wiki/actions/actions.class.php on line 21 and defined)
+Jan 31 00:18:51 symfony [notice] {sfWebDebugLogger}  Notice at /usr/share/pear/symfony/view/sfView.class.php on line 93 (Undefined variable: context)
+Jan 31 00:18:51 symfony [notice] {sfWebDebugLogger}  Notice at /usr/share/pear/symfony/view/sfView.class.php on line 93 (Undefined variable: moduleName)
+Jan 31 00:18:51 symfony [notice] {sfWebDebugLogger}  Notice at /usr/share/pear/symfony/view/sfView.class.php on line 93 (Undefined variable: actionName)
+Jan 31 00:18:51 symfony [notice] {sfWebDebugLogger}  Notice at /usr/share/pear/symfony/view/sfView.class.php on line 93 (Undefined variable: viewName)
+Jan 31 00:19:01 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 00:19:01 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 00:19:01 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 00:19:01 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 00:19:01 symfony [err] {sfRenderException} The template "indexSuccess.html" does not exist or is unreadable in "".
+Jan 31 00:19:01 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Jan 31 00:19:01 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 00:19:01 symfony [info] {sfWebDebugLogger} Configuration 11.20 ms (10)
+Jan 31 00:19:01 symfony [info] {sfWebDebugLogger} Factories 25.18 ms (1)
+Jan 31 00:19:01 symfony [info] {sfWebDebugLogger} Action "wiki/index" 0.29 ms (1)
+Jan 31 00:19:01 symfony [info] {sfWebDebugLogger} View "Success" for "wiki/index" 50.40 ms (1)
+Jan 31 00:19:56 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 00:19:56 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 00:19:56 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 00:19:56 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 00:19:56 symfony [info] {sfTwigView} Render "/home/cocoiti/cocowiki/apps/frontend/modules/wiki/templates/indexSuccess.html".
+Jan 31 00:19:56 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jan 31 00:19:56 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 00:19:56 symfony [info] {sfWebDebugLogger} Configuration 1.00 ms (9)
+Jan 31 00:19:56 symfony [info] {sfWebDebugLogger} Factories 25.45 ms (1)
+Jan 31 00:19:56 symfony [info] {sfWebDebugLogger} Action "wiki/index" 0.19 ms (1)
+Jan 31 00:19:56 symfony [info] {sfWebDebugLogger} View "Success" for "wiki/index" 23.31 ms (1)
+Jan 31 00:19:56 symfony [info] {sfWebResponse} Send content (26957 o)
+Jan 31 00:21:21 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 00:21:21 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 00:21:21 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 00:21:21 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 00:21:21 symfony [info] {sfTwigView} Render "/home/cocoiti/cocowiki/apps/frontend/modules/wiki/templates/indexSuccess.html".
+Jan 31 00:21:21 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jan 31 00:21:21 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 00:21:21 symfony [info] {sfWebDebugLogger} Configuration 0.99 ms (9)
+Jan 31 00:21:21 symfony [info] {sfWebDebugLogger} Factories 23.08 ms (1)
+Jan 31 00:21:21 symfony [info] {sfWebDebugLogger} Action "wiki/index" 0.16 ms (1)
+Jan 31 00:21:21 symfony [info] {sfWebDebugLogger} View "Success" for "wiki/index" 14.53 ms (1)
+Jan 31 00:21:21 symfony [info] {sfWebResponse} Send content (26957 o)
+Jan 31 00:42:30 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 00:42:30 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 00:42:30 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 00:42:30 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 00:42:30 symfony [info] {sfTwigView} Render "/home/cocoiti/cocowiki/apps/frontend/modules/wiki/templates/indexSuccess.html".
+Jan 31 00:42:30 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jan 31 00:42:30 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 00:42:30 symfony [info] {sfWebDebugLogger} Configuration 1.07 ms (9)
+Jan 31 00:42:30 symfony [info] {sfWebDebugLogger} Factories 29.27 ms (1)
+Jan 31 00:42:30 symfony [info] {sfWebDebugLogger} Action "wiki/index" 0.31 ms (1)
+Jan 31 00:42:30 symfony [info] {sfWebDebugLogger} View "Success" for "wiki/index" 16.82 ms (1)
+Jan 31 00:42:30 symfony [info] {sfWebResponse} Send content (26958 o)
+Jan 31 00:43:50 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 00:43:50 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 00:43:50 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 00:43:50 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 00:43:50 symfony [info] {sfTwigView} Render "/home/cocoiti/cocowiki/apps/frontend/modules/wiki/templates/indexSuccess.html".
+Jan 31 00:43:50 symfony [err] {sfException} Call to undefined method frontendConfiguration::templaePaths.
+Jan 31 00:43:50 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Jan 31 00:43:50 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 00:43:50 symfony [info] {sfWebDebugLogger} Configuration 1.29 ms (9)
+Jan 31 00:43:50 symfony [info] {sfWebDebugLogger} Factories 25.15 ms (1)
+Jan 31 00:43:50 symfony [info] {sfWebDebugLogger} Action "wiki/index" 0.17 ms (1)
+Jan 31 00:43:50 symfony [info] {sfWebDebugLogger} View "Success" for "wiki/index" 44.07 ms (1)
+Jan 31 00:44:14 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 00:44:14 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 00:44:14 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 00:44:14 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 00:44:14 symfony [info] {sfTwigView} Render "/home/cocoiti/cocowiki/apps/frontend/modules/wiki/templates/indexSuccess.html".
+Jan 31 00:45:03 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 00:45:03 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 00:45:03 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 00:45:03 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 00:45:03 symfony [info] {sfTwigView} Render "/home/cocoiti/cocowiki/apps/frontend/modules/wiki/templates/indexSuccess.html".
+Jan 31 00:45:03 symfony [notice] {sfWebDebugLogger}  Notice at /home/cocoiti/cocowiki/config/ProjectConfiguration.class.php on line 17 (Undefined property: frontendConfiguration::$configuration)
+Jan 31 00:46:13 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 00:46:13 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 00:46:13 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 00:46:13 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 00:46:13 symfony [info] {sfTwigView} Render "/home/cocoiti/cocowiki/apps/frontend/modules/wiki/templates/indexSuccess.html".
+Jan 31 00:46:13 symfony [err] {sfWebDebugLogger}  Strict notice at /home/cocoiti/cocowiki/config/ProjectConfiguration.class.php on line 17 (Non-static method sfContext::getConfiguration() should not be called statically, assuming $this from incompatible context)
+Jan 31 00:46:13 symfony [notice] {sfWebDebugLogger}  Notice at /usr/share/pear/symfony/util/sfContext.class.php on line 199 (Undefined property: frontendConfiguration::$configuration)
+Jan 31 00:48:17 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 00:48:17 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 00:48:17 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 00:48:17 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 00:48:17 symfony [info] {sfTwigView} Render "/home/cocoiti/cocowiki/apps/frontend/modules/wiki/templates/indexSuccess.html".
+Jan 31 00:48:17 symfony [err] {sfWebDebugLogger}  Strict notice at /home/cocoiti/cocowiki/config/ProjectConfiguration.class.php on line 17 (Non-static method sfContext::getConfiguration() should not be called statically, assuming $this from incompatible context)
+Jan 31 00:48:17 symfony [notice] {sfWebDebugLogger}  Notice at /usr/share/pear/symfony/util/sfContext.class.php on line 199 (Undefined property: frontendConfiguration::$configuration)
+Jan 31 00:48:17 symfony [notice] {sfWebDebugLogger}  Notice at /home/cocoiti/cocowiki/config/ProjectConfiguration.class.php on line 18 (Undefined property: frontendConfiguration::$configuration)
+Jan 31 00:48:34 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 00:48:34 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 00:48:34 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 00:48:34 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 00:48:34 symfony [info] {sfTwigView} Render "/home/cocoiti/cocowiki/apps/frontend/modules/wiki/templates/indexSuccess.html".
+Jan 31 00:48:34 symfony [notice] {sfWebDebugLogger}  Notice at /home/cocoiti/cocowiki/config/ProjectConfiguration.class.php on line 18 (Undefined property: frontendConfiguration::$configuration)
+Jan 31 00:49:10 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 00:49:10 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 00:49:10 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 00:49:10 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 00:49:10 symfony [info] {sfTwigView} Render "/home/cocoiti/cocowiki/apps/frontend/modules/wiki/templates/indexSuccess.html".
+Jan 31 00:49:10 symfony [err] {InvalidArgumentException} The "" directory does not exist.
+Jan 31 00:49:10 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Jan 31 00:49:10 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 00:49:10 symfony [info] {sfWebDebugLogger} Configuration 1.51 ms (9)
+Jan 31 00:49:10 symfony [info] {sfWebDebugLogger} Factories 40.86 ms (1)
+Jan 31 00:49:10 symfony [info] {sfWebDebugLogger} Action "wiki/index" 0.19 ms (1)
+Jan 31 00:49:10 symfony [info] {sfWebDebugLogger} View "Success" for "wiki/index" 44.25 ms (1)
+Jan 31 00:49:32 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 00:49:32 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 00:49:32 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 00:49:32 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 00:49:32 symfony [info] {sfTwigView} Render "/home/cocoiti/cocowiki/apps/frontend/modules/wiki/templates/indexSuccess.html".
+Jan 31 00:50:22 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 00:50:22 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 00:50:22 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 00:50:22 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 00:50:22 symfony [info] {sfTwigView} Render "/home/cocoiti/cocowiki/apps/frontend/modules/wiki/templates/indexSuccess.html".
+Jan 31 00:50:46 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 00:50:46 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 00:50:46 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 00:50:46 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 00:50:46 symfony [info] {sfTwigView} Render "/home/cocoiti/cocowiki/apps/frontend/modules/wiki/templates/indexSuccess.html".
+Jan 31 00:55:05 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 00:55:05 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 00:55:05 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 00:55:05 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 00:55:06 symfony [info] {sfTwigView} Render "/home/cocoiti/cocowiki/apps/frontend/modules/wiki/templates/indexSuccess.html".
+Jan 31 00:55:53 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 00:55:53 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 00:55:53 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 00:55:53 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 00:55:53 symfony [info] {sfTwigView} Render "/home/cocoiti/cocowiki/apps/frontend/modules/wiki/templates/indexSuccess.html".
+Jan 31 00:58:35 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 00:58:35 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 00:58:35 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 00:58:35 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 00:58:35 symfony [info] {sfTwigView} Render "/home/cocoiti/cocowiki/apps/frontend/modules/wiki/templates/indexSuccess.html".
+Jan 31 00:58:36 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 00:58:36 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 00:58:36 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 00:58:36 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 00:58:36 symfony [info] {sfTwigView} Render "/home/cocoiti/cocowiki/apps/frontend/modules/wiki/templates/indexSuccess.html".
+Jan 31 00:58:41 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 00:58:41 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 00:58:41 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 00:58:41 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 00:58:41 symfony [info] {sfTwigView} Render "/home/cocoiti/cocowiki/apps/frontend/modules/wiki/templates/indexSuccess.html".
+Jan 31 01:01:15 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 01:01:15 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 01:01:15 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 01:01:15 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 01:01:15 symfony [info] {sfTwigView} Render "/home/cocoiti/cocowiki/apps/frontend/modules/wiki/templates/indexSuccess.html".
+Jan 31 01:01:48 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 01:01:48 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 01:01:48 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 01:01:48 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 01:01:48 symfony [info] {sfTwigView} Render "/home/cocoiti/cocowiki/apps/frontend/modules/wiki/templates/indexSuccess.html".
+Jan 31 01:01:48 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jan 31 01:01:48 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 01:01:48 symfony [info] {sfWebDebugLogger} Configuration 1.24 ms (9)
+Jan 31 01:01:48 symfony [info] {sfWebDebugLogger} Factories 29.14 ms (1)
+Jan 31 01:01:48 symfony [info] {sfWebDebugLogger} Action "wiki/index" 0.17 ms (1)
+Jan 31 01:01:48 symfony [info] {sfWebDebugLogger} View "Success" for "wiki/index" 39.95 ms (1)
+Jan 31 01:01:48 symfony [info] {sfWebResponse} Send content (26958 o)
+Jan 31 01:09:26 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 01:09:26 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 01:09:26 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 01:09:26 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 01:09:26 symfony [info] {sfTwigView} Render "/home/cocoiti/cocowiki/apps/frontend/modules/wiki/templates/indexSuccess.html".
+Jan 31 01:09:26 symfony [err] {Twig_SyntaxError} Unknown tag name "wiki" in indexSuccess.html at line 1
+Jan 31 01:09:26 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Jan 31 01:09:26 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 01:09:26 symfony [info] {sfWebDebugLogger} Configuration 1.13 ms (9)
+Jan 31 01:09:26 symfony [info] {sfWebDebugLogger} Factories 27.75 ms (1)
+Jan 31 01:09:26 symfony [info] {sfWebDebugLogger} Action "wiki/index" 0.19 ms (1)
+Jan 31 01:09:26 symfony [info] {sfWebDebugLogger} View "Success" for "wiki/index" 58.71 ms (1)
+Jan 31 01:10:16 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 01:10:16 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 01:10:16 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 01:10:16 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 01:10:16 symfony [info] {sfTwigView} Render "/home/cocoiti/cocowiki/apps/frontend/modules/wiki/templates/indexSuccess.html".
+Jan 31 01:10:16 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jan 31 01:10:16 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 01:10:16 symfony [info] {sfWebDebugLogger} Configuration 1.33 ms (9)
+Jan 31 01:10:16 symfony [info] {sfWebDebugLogger} Factories 28.60 ms (1)
+Jan 31 01:10:16 symfony [info] {sfWebDebugLogger} Action "wiki/index" 0.17 ms (1)
+Jan 31 01:10:16 symfony [info] {sfWebDebugLogger} View "Success" for "wiki/index" 27.65 ms (1)
+Jan 31 01:10:16 symfony [info] {sfWebResponse} Send content (26950 o)
+Jan 31 01:10:33 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 01:10:33 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 01:10:33 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 01:10:33 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 01:10:33 symfony [info] {sfTwigView} Render "/home/cocoiti/cocowiki/apps/frontend/modules/wiki/templates/indexSuccess.html".
+Jan 31 01:10:33 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jan 31 01:10:33 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 01:10:33 symfony [info] {sfWebDebugLogger} Configuration 1.11 ms (9)
+Jan 31 01:10:33 symfony [info] {sfWebDebugLogger} Factories 22.87 ms (1)
+Jan 31 01:10:33 symfony [info] {sfWebDebugLogger} Action "wiki/index" 0.18 ms (1)
+Jan 31 01:10:33 symfony [info] {sfWebDebugLogger} View "Success" for "wiki/index" 23.93 ms (1)
+Jan 31 01:10:33 symfony [info] {sfWebResponse} Send content (26956 o)
+Jan 31 01:32:38 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 01:32:38 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 01:32:38 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 01:32:38 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 01:32:38 symfony [notice] {sfWebDebugLogger}  Notice at /home/cocoiti/cocowiki/config/ProjectConfiguration.class.php on line 26 (Undefined variable: excaper)
+Jan 31 01:32:52 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 01:32:52 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 01:32:52 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 01:32:52 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 01:32:52 symfony [info] {sfTwigView} Render "/home/cocoiti/cocowiki/apps/frontend/modules/wiki/templates/indexSuccess.html".
+Jan 31 01:32:52 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jan 31 01:32:52 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 01:32:52 symfony [info] {sfWebDebugLogger} Configuration 1.12 ms (9)
+Jan 31 01:32:52 symfony [info] {sfWebDebugLogger} Factories 31.07 ms (1)
+Jan 31 01:32:52 symfony [info] {sfWebDebugLogger} Action "wiki/index" 0.19 ms (1)
+Jan 31 01:32:52 symfony [info] {sfWebDebugLogger} View "Success" for "wiki/index" 17.40 ms (1)
+Jan 31 01:32:52 symfony [info] {sfWebResponse} Send content (26956 o)
+Jan 31 01:33:52 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 01:33:52 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 01:33:52 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 01:33:52 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 01:33:52 symfony [info] {sfTwigView} Render "/home/cocoiti/cocowiki/apps/frontend/modules/wiki/templates/indexSuccess.html".
+Jan 31 01:33:52 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jan 31 01:33:52 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 01:33:52 symfony [info] {sfWebDebugLogger} Configuration 111.17 ms (9)
+Jan 31 01:33:52 symfony [info] {sfWebDebugLogger} Factories 77.30 ms (1)
+Jan 31 01:33:52 symfony [info] {sfWebDebugLogger} Action "wiki/index" 0.19 ms (1)
+Jan 31 01:33:52 symfony [info] {sfWebDebugLogger} View "Success" for "wiki/index" 16.33 ms (1)
+Jan 31 01:33:52 symfony [info] {sfWebResponse} Send content (26959 o)
+Jan 31 01:34:46 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 01:34:46 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 01:34:46 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 01:34:46 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 01:34:46 symfony [info] {sfTwigView} Render "/home/cocoiti/cocowiki/apps/frontend/modules/wiki/templates/indexSuccess.html".
+Jan 31 01:34:46 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jan 31 01:34:46 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 01:34:46 symfony [info] {sfWebDebugLogger} Configuration 1.18 ms (9)
+Jan 31 01:34:46 symfony [info] {sfWebDebugLogger} Factories 26.37 ms (1)
+Jan 31 01:34:46 symfony [info] {sfWebDebugLogger} Action "wiki/index" 0.27 ms (1)
+Jan 31 01:34:46 symfony [info] {sfWebDebugLogger} View "Success" for "wiki/index" 23.27 ms (1)
+Jan 31 01:34:46 symfony [info] {sfWebResponse} Send content (26957 o)
+Jan 31 01:35:01 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 01:35:01 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 01:35:01 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 01:35:01 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 01:35:01 symfony [info] {sfTwigView} Render "/home/cocoiti/cocowiki/apps/frontend/modules/wiki/templates/indexSuccess.html".
+Jan 31 01:35:01 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jan 31 01:35:01 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 01:35:01 symfony [info] {sfWebDebugLogger} Configuration 1.24 ms (9)
+Jan 31 01:35:01 symfony [info] {sfWebDebugLogger} Factories 25.26 ms (1)
+Jan 31 01:35:01 symfony [info] {sfWebDebugLogger} Action "wiki/index" 0.18 ms (1)
+Jan 31 01:35:01 symfony [info] {sfWebDebugLogger} View "Success" for "wiki/index" 14.07 ms (1)
+Jan 31 01:35:01 symfony [info] {sfWebResponse} Send content (26956 o)
+Jan 31 01:35:38 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 01:35:38 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 01:35:38 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 01:35:38 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 01:35:38 symfony [info] {sfTwigView} Render "/home/cocoiti/cocowiki/apps/frontend/modules/wiki/templates/indexSuccess.html".
+Jan 31 01:35:38 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jan 31 01:35:38 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 01:35:38 symfony [info] {sfWebDebugLogger} Configuration 1.03 ms (9)
+Jan 31 01:35:38 symfony [info] {sfWebDebugLogger} Factories 26.96 ms (1)
+Jan 31 01:35:38 symfony [info] {sfWebDebugLogger} Action "wiki/index" 0.17 ms (1)
+Jan 31 01:35:38 symfony [info] {sfWebDebugLogger} View "Success" for "wiki/index" 15.82 ms (1)
+Jan 31 01:35:38 symfony [info] {sfWebResponse} Send content (26956 o)
+Jan 31 01:36:49 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 01:36:49 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 01:36:49 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 01:36:49 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 01:36:49 symfony [info] {sfTwigView} Render "/home/cocoiti/cocowiki/apps/frontend/modules/wiki/templates/indexSuccess.html".
+Jan 31 01:36:49 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jan 31 01:36:49 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 01:36:49 symfony [info] {sfWebDebugLogger} Configuration 109.22 ms (9)
+Jan 31 01:36:49 symfony [info] {sfWebDebugLogger} Factories 75.59 ms (1)
+Jan 31 01:36:49 symfony [info] {sfWebDebugLogger} Action "wiki/index" 0.19 ms (1)
+Jan 31 01:36:49 symfony [info] {sfWebDebugLogger} View "Success" for "wiki/index" 17.53 ms (1)
+Jan 31 01:36:49 symfony [info] {sfWebResponse} Send content (26959 o)
+Jan 31 01:37:43 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 01:37:43 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 01:37:43 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 01:37:43 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 01:37:43 symfony [info] {sfTwigView} Render "/home/cocoiti/cocowiki/apps/frontend/modules/wiki/templates/indexSuccess.html".
+Jan 31 01:37:43 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jan 31 01:37:43 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 01:37:43 symfony [info] {sfWebDebugLogger} Configuration 122.15 ms (9)
+Jan 31 01:37:43 symfony [info] {sfWebDebugLogger} Factories 91.07 ms (1)
+Jan 31 01:37:43 symfony [info] {sfWebDebugLogger} Action "wiki/index" 0.29 ms (1)
+Jan 31 01:37:43 symfony [info] {sfWebDebugLogger} View "Success" for "wiki/index" 16.92 ms (1)
+Jan 31 01:37:43 symfony [info] {sfWebResponse} Send content (26927 o)
+Jan 31 01:37:45 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wikiaaa with parameters array (  'module' => 'wikiaaa',  'action' => 'index',)
+Jan 31 01:37:45 symfony [info] {sfFrontWebController} Action "wikiaaa/index" does not exist
+Jan 31 01:37:45 symfony [err] {sfError404Exception} Action "wikiaaa/index" does not exist.
+Jan 31 01:37:45 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Jan 31 01:37:45 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 01:37:45 symfony [info] {sfWebDebugLogger} Configuration 0.61 ms (5)
+Jan 31 01:37:45 symfony [info] {sfWebDebugLogger} Factories 25.27 ms (1)
+Jan 31 01:37:51 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 01:37:51 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 01:37:51 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 01:37:51 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 01:37:51 symfony [info] {sfTwigView} Render "/home/cocoiti/cocowiki/apps/frontend/modules/wiki/templates/indexSuccess.html".
+Jan 31 01:37:51 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jan 31 01:37:51 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 01:37:51 symfony [info] {sfWebDebugLogger} Configuration 1.09 ms (9)
+Jan 31 01:37:51 symfony [info] {sfWebDebugLogger} Factories 24.90 ms (1)
+Jan 31 01:37:51 symfony [info] {sfWebDebugLogger} Action "wiki/index" 0.17 ms (1)
+Jan 31 01:37:51 symfony [info] {sfWebDebugLogger} View "Success" for "wiki/index" 13.15 ms (1)
+Jan 31 01:37:51 symfony [info] {sfWebResponse} Send content (26950 o)
+Jan 31 01:38:40 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 01:38:40 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 01:38:40 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 01:38:40 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 01:38:40 symfony [info] {sfTwigView} Render "/home/cocoiti/cocowiki/apps/frontend/modules/wiki/templates/indexSuccess.html".
+Jan 31 01:38:40 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jan 31 01:38:40 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 01:38:40 symfony [info] {sfWebDebugLogger} Configuration 1.47 ms (9)
+Jan 31 01:38:40 symfony [info] {sfWebDebugLogger} Factories 25.86 ms (1)
+Jan 31 01:38:40 symfony [info] {sfWebDebugLogger} Action "wiki/index" 0.20 ms (1)
+Jan 31 01:38:40 symfony [info] {sfWebDebugLogger} View "Success" for "wiki/index" 28.35 ms (1)
+Jan 31 01:38:40 symfony [info] {sfWebResponse} Send content (26989 o)
+Jan 31 01:38:44 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 01:38:44 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 01:38:44 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 01:38:44 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 01:38:44 symfony [info] {sfTwigView} Render "/home/cocoiti/cocowiki/apps/frontend/modules/wiki/templates/indexSuccess.html".
+Jan 31 01:38:44 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jan 31 01:38:44 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 01:38:44 symfony [info] {sfWebDebugLogger} Configuration 1.11 ms (9)
+Jan 31 01:38:44 symfony [info] {sfWebDebugLogger} Factories 24.93 ms (1)
+Jan 31 01:38:44 symfony [info] {sfWebDebugLogger} Action "wiki/index" 0.19 ms (1)
+Jan 31 01:38:44 symfony [info] {sfWebDebugLogger} View "Success" for "wiki/index" 13.59 ms (1)
+Jan 31 01:38:44 symfony [info] {sfWebResponse} Send content (26988 o)
+Jan 31 01:45:38 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 01:45:38 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 01:45:38 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 01:45:38 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 01:45:38 symfony [info] {sfTwigView} Render "/home/cocoiti/cocowiki/apps/frontend/modules/wiki/templates/indexSuccess.html".
+Jan 31 01:45:38 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jan 31 01:45:38 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 01:45:38 symfony [info] {sfWebDebugLogger} Configuration 1.41 ms (9)
+Jan 31 01:45:38 symfony [info] {sfWebDebugLogger} Factories 25.43 ms (1)
+Jan 31 01:45:38 symfony [info] {sfWebDebugLogger} Action "wiki/index" 0.30 ms (1)
+Jan 31 01:45:38 symfony [info] {sfWebDebugLogger} View "Success" for "wiki/index" 27.53 ms (1)
+Jan 31 01:45:38 symfony [info] {sfWebResponse} Send content (26989 o)
+Jan 31 01:45:52 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 01:45:52 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 01:45:52 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 01:45:52 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 01:45:52 symfony [info] {sfTwigView} Render "/home/cocoiti/cocowiki/apps/frontend/modules/wiki/templates/indexSuccess.html".
+Jan 31 01:45:52 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jan 31 01:45:52 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 01:45:52 symfony [info] {sfWebDebugLogger} Configuration 1.09 ms (9)
+Jan 31 01:45:52 symfony [info] {sfWebDebugLogger} Factories 26.11 ms (1)
+Jan 31 01:45:52 symfony [info] {sfWebDebugLogger} Action "wiki/index" 0.21 ms (1)
+Jan 31 01:45:52 symfony [info] {sfWebDebugLogger} View "Success" for "wiki/index" 12.47 ms (1)
+Jan 31 01:45:52 symfony [info] {sfWebResponse} Send content (26982 o)
+Jan 31 01:47:18 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 01:47:18 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 01:47:18 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 01:47:18 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 01:47:18 symfony [info] {sfTwigView} Render "/home/cocoiti/cocowiki/apps/frontend/modules/wiki/templates/indexSuccess.html".
+Jan 31 01:47:18 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jan 31 01:47:18 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 01:47:18 symfony [info] {sfWebDebugLogger} Configuration 1.13 ms (9)
+Jan 31 01:47:18 symfony [info] {sfWebDebugLogger} Factories 24.20 ms (1)
+Jan 31 01:47:18 symfony [info] {sfWebDebugLogger} Action "wiki/index" 0.19 ms (1)
+Jan 31 01:47:18 symfony [info] {sfWebDebugLogger} View "Success" for "wiki/index" 13.10 ms (1)
+Jan 31 01:47:18 symfony [info] {sfWebResponse} Send content (26988 o)
+Jan 31 01:50:20 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 01:50:20 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 01:50:20 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 01:50:20 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 01:50:20 symfony [info] {sfTwigView} Render "/home/cocoiti/cocowiki/apps/frontend/modules/wiki/templates/indexSuccess.html".
+Jan 31 01:50:20 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jan 31 01:50:20 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 01:50:20 symfony [info] {sfWebDebugLogger} Configuration 1.18 ms (9)
+Jan 31 01:50:20 symfony [info] {sfWebDebugLogger} Factories 24.64 ms (1)
+Jan 31 01:50:20 symfony [info] {sfWebDebugLogger} Action "wiki/index" 0.24 ms (1)
+Jan 31 01:50:20 symfony [info] {sfWebDebugLogger} View "Success" for "wiki/index" 65.49 ms (1)
+Jan 31 01:50:20 symfony [info] {sfWebResponse} Send content (36492 o)
+Jan 31 01:51:18 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 01:51:18 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 01:51:18 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 01:51:18 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 01:51:18 symfony [info] {sfTwigView} Render "/home/cocoiti/cocowiki/apps/frontend/modules/wiki/templates/indexSuccess.html".
+Jan 31 01:51:18 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jan 31 01:51:18 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 01:51:18 symfony [info] {sfWebDebugLogger} Configuration 0.98 ms (9)
+Jan 31 01:51:18 symfony [info] {sfWebDebugLogger} Factories 27.07 ms (1)
+Jan 31 01:51:18 symfony [info] {sfWebDebugLogger} Action "wiki/index" 0.20 ms (1)
+Jan 31 01:51:18 symfony [info] {sfWebDebugLogger} View "Success" for "wiki/index" 31.54 ms (1)
+Jan 31 01:51:18 symfony [info] {sfWebResponse} Send content (36492 o)
+Jan 31 01:51:55 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 01:51:55 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 01:51:55 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 01:51:55 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 01:51:55 symfony [info] {sfTwigView} Render "/home/cocoiti/cocowiki/apps/frontend/modules/wiki/templates/indexSuccess.html".
+Jan 31 01:51:55 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jan 31 01:51:55 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 01:51:55 symfony [info] {sfWebDebugLogger} Configuration 0.98 ms (9)
+Jan 31 01:51:55 symfony [info] {sfWebDebugLogger} Factories 26.77 ms (1)
+Jan 31 01:51:55 symfony [info] {sfWebDebugLogger} Action "wiki/index" 0.20 ms (1)
+Jan 31 01:51:55 symfony [info] {sfWebDebugLogger} View "Success" for "wiki/index" 14.80 ms (1)
+Jan 31 01:51:55 symfony [info] {sfWebResponse} Send content (36491 o)
+Jan 31 01:52:55 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 01:52:55 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 01:52:55 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 01:52:55 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 01:52:55 symfony [info] {sfTwigView} Render "/home/cocoiti/cocowiki/apps/frontend/modules/wiki/templates/indexSuccess.html".
+Jan 31 01:52:56 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jan 31 01:52:56 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 01:52:56 symfony [info] {sfWebDebugLogger} Configuration 1.13 ms (9)
+Jan 31 01:52:56 symfony [info] {sfWebDebugLogger} Factories 28.14 ms (1)
+Jan 31 01:52:56 symfony [info] {sfWebDebugLogger} Action "wiki/index" 0.31 ms (1)
+Jan 31 01:52:56 symfony [info] {sfWebDebugLogger} View "Success" for "wiki/index" 33.13 ms (1)
+Jan 31 01:52:56 symfony [info] {sfWebResponse} Send content (36498 o)
+Jan 31 02:10:01 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 02:10:01 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 02:10:01 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 02:10:01 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 02:10:01 symfony [info] {sfTwigView} Render "/home/cocoiti/cocowiki/apps/frontend/modules/wiki/templates/indexSuccess.html".
+Jan 31 02:10:01 symfony [err] {Twig_SyntaxError} Unexpected token "}" in wiki/wiki.html at line 2
+Jan 31 02:10:01 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Jan 31 02:10:01 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 02:10:01 symfony [info] {sfWebDebugLogger} Configuration 1.21 ms (9)
+Jan 31 02:10:01 symfony [info] {sfWebDebugLogger} Factories 28.49 ms (1)
+Jan 31 02:10:01 symfony [info] {sfWebDebugLogger} Action "wiki/index" 0.31 ms (1)
+Jan 31 02:10:01 symfony [info] {sfWebDebugLogger} View "Success" for "wiki/index" 127.58 ms (1)
+Jan 31 02:10:29 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 02:10:29 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 02:10:29 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 02:10:29 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 02:10:29 symfony [info] {sfTwigView} Render "/home/cocoiti/cocowiki/apps/frontend/modules/wiki/templates/indexSuccess.html".
+Jan 31 02:10:29 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jan 31 02:10:29 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 02:10:29 symfony [info] {sfWebDebugLogger} Configuration 1.00 ms (9)
+Jan 31 02:10:29 symfony [info] {sfWebDebugLogger} Factories 24.49 ms (1)
+Jan 31 02:10:29 symfony [info] {sfWebDebugLogger} Action "wiki/index" 0.42 ms (1)
+Jan 31 02:10:29 symfony [info] {sfWebDebugLogger} View "Success" for "wiki/index" 36.41 ms (1)
+Jan 31 02:10:29 symfony [info] {sfWebResponse} Send content (36246 o)
+Jan 31 02:10:54 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 02:10:54 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 02:10:54 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 02:10:54 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 02:10:54 symfony [info] {sfTwigView} Render "/home/cocoiti/cocowiki/apps/frontend/modules/wiki/templates/indexSuccess.html".
+Jan 31 02:10:54 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jan 31 02:10:54 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 02:10:54 symfony [info] {sfWebDebugLogger} Configuration 1.12 ms (9)
+Jan 31 02:10:54 symfony [info] {sfWebDebugLogger} Factories 26.48 ms (1)
+Jan 31 02:10:54 symfony [info] {sfWebDebugLogger} Action "wiki/index" 0.21 ms (1)
+Jan 31 02:10:54 symfony [info] {sfWebDebugLogger} View "Success" for "wiki/index" 36.78 ms (1)
+Jan 31 02:10:54 symfony [info] {sfWebResponse} Send content (36193 o)
+Jan 31 02:11:30 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 02:11:30 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 02:11:30 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 02:11:30 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 02:11:30 symfony [info] {sfTwigView} Render "/home/cocoiti/cocowiki/apps/frontend/modules/wiki/templates/indexSuccess.html".
+Jan 31 02:11:30 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jan 31 02:11:30 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 02:11:30 symfony [info] {sfWebDebugLogger} Configuration 1.22 ms (9)
+Jan 31 02:11:30 symfony [info] {sfWebDebugLogger} Factories 27.08 ms (1)
+Jan 31 02:11:30 symfony [info] {sfWebDebugLogger} Action "wiki/index" 0.49 ms (1)
+Jan 31 02:11:30 symfony [info] {sfWebDebugLogger} View "Success" for "wiki/index" 36.40 ms (1)
+Jan 31 02:11:30 symfony [info] {sfWebResponse} Send content (36206 o)
+Jan 31 02:12:45 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 02:12:45 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 02:12:45 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 02:12:45 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 02:12:45 symfony [info] {sfTwigView} Render "/home/cocoiti/cocowiki/apps/frontend/modules/wiki/templates/indexSuccess.html".
+Jan 31 02:12:45 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jan 31 02:12:45 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 02:12:45 symfony [info] {sfWebDebugLogger} Configuration 1.74 ms (9)
+Jan 31 02:12:45 symfony [info] {sfWebDebugLogger} Factories 26.66 ms (1)
+Jan 31 02:12:45 symfony [info] {sfWebDebugLogger} Action "wiki/index" 0.22 ms (1)
+Jan 31 02:12:45 symfony [info] {sfWebDebugLogger} View "Success" for "wiki/index" 47.82 ms (1)
+Jan 31 02:12:45 symfony [info] {sfWebResponse} Send content (36273 o)
+Jan 31 02:25:51 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 02:25:51 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 02:25:51 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 02:25:51 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 02:25:51 symfony [info] {sfTwigView} Render "/home/cocoiti/cocowiki/apps/frontend/modules/wiki/templates/indexSuccess.html".
+Jan 31 02:25:51 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jan 31 02:25:51 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 02:25:51 symfony [info] {sfWebDebugLogger} Configuration 1.80 ms (9)
+Jan 31 02:25:51 symfony [info] {sfWebDebugLogger} Factories 29.80 ms (1)
+Jan 31 02:25:51 symfony [info] {sfWebDebugLogger} Action "wiki/index" 0.68 ms (1)
+Jan 31 02:25:51 symfony [info] {sfWebDebugLogger} View "Success" for "wiki/index" 19.20 ms (1)
+Jan 31 02:25:51 symfony [info] {sfWebResponse} Send content (36241 o)
+Jan 31 02:41:00 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 02:41:00 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 02:41:00 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 02:41:00 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 02:41:23 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 02:41:23 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 02:41:23 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 02:41:23 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 02:41:34 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 02:41:34 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 02:41:34 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 02:41:34 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 02:41:34 symfony [warning] {sfWebDebugLogger}  Warning at /home/cocoiti/cocowiki/apps/frontend/lib/myWiki.class.php on line 2 (require_once(lib/git/VersionControl/Git.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory)
+Jan 31 02:41:58 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 02:41:58 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 02:41:58 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 02:41:58 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 02:41:58 symfony [warning] {sfWebDebugLogger}  Warning at /home/cocoiti/cocowiki/apps/frontend/lib/myWiki.class.php on line 2 (require_once(lib/git/VersionControl/Git.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory)
+Jan 31 02:42:27 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 02:42:27 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 02:42:27 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 02:42:27 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 02:42:27 symfony [warning] {sfWebDebugLogger}  Warning at /home/cocoiti/cocowiki/apps/frontend/lib/myWiki.class.php on line 2 (require_once(git/VersionControl/Git.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory)
+Jan 31 02:42:44 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 02:42:44 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 02:42:44 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 02:42:44 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 02:42:44 symfony [warning] {sfWebDebugLogger}  Warning at /home/cocoiti/cocowiki/apps/frontend/lib/myWiki.class.php on line 2 (require_once(git/VersionControl/Git.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory)
+Jan 31 02:43:12 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 02:43:12 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 02:43:12 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 02:43:12 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 02:44:09 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 02:44:09 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 02:44:09 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 02:44:09 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 02:45:06 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 02:45:06 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 02:45:06 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 02:45:06 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 02:45:06 symfony [warning] {sfWebDebugLogger}  Warning at /home/cocoiti/cocowiki/lib/git/VersionControl/Git.php on line 28 (require_once(VersionControl/Git/Exception.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory)
+Jan 31 02:50:02 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 02:50:02 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 02:50:02 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 02:50:02 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 02:50:02 symfony [err] {VersionControl_Git_Exception} You must specified readable directory as repository.
+Jan 31 02:50:02 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Jan 31 02:50:02 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 02:50:02 symfony [info] {sfWebDebugLogger} Configuration 1.02 ms (8)
+Jan 31 02:50:02 symfony [info] {sfWebDebugLogger} Factories 29.17 ms (1)
+Jan 31 02:50:02 symfony [info] {sfWebDebugLogger} Action "wiki/index" 32.29 ms (1)
+Jan 31 02:51:19 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 02:51:19 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 02:51:19 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 02:51:19 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 02:51:32 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 02:51:33 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 02:51:33 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 02:51:33 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 02:51:33 symfony [info] {sfTwigView} Render "/home/cocoiti/cocowiki/apps/frontend/modules/wiki/templates/indexSuccess.html".
+Jan 31 02:51:33 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jan 31 02:51:33 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 02:51:33 symfony [info] {sfWebDebugLogger} Configuration 12.50 ms (10)
+Jan 31 02:51:33 symfony [info] {sfWebDebugLogger} Factories 26.10 ms (1)
+Jan 31 02:51:33 symfony [info] {sfWebDebugLogger} Action "wiki/index" 4.90 ms (1)
+Jan 31 02:51:33 symfony [info] {sfWebDebugLogger} View "Success" for "wiki/index" 28.43 ms (1)
+Jan 31 02:51:33 symfony [info] {sfWebResponse} Send content (36276 o)
+Jan 31 02:51:59 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 02:51:59 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 02:51:59 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 02:51:59 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 02:51:59 symfony [warning] {sfWebDebugLogger}  Warning at /home/cocoiti/cocowiki/apps/frontend/lib/myWiki.class.php on line 2 (require_once(git/VersionControl/Git.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory)
+Jan 31 02:52:17 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 02:52:17 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 02:52:17 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 02:52:17 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 02:52:17 symfony [warning] {sfWebDebugLogger}  Warning at /home/cocoiti/cocowiki/apps/frontend/lib/myWiki.class.php on line 25 (mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists)
+Jan 31 02:52:17 symfony [warning] {sfWebDebugLogger}  Warning at /home/cocoiti/cocowiki/lib/git/VersionControl/Git/Util/Command.php on line 216 (chdir() [<a href='function.chdir'>function.chdir</a>]: Permission denied (errno 13))
+Jan 31 02:52:17 symfony [err] {VersionControl_Git_Exception} Some errors in executing git command: 
+Jan 31 02:52:17 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Jan 31 02:52:17 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 02:52:17 symfony [info] {sfWebDebugLogger} Configuration 63.71 ms (10)
+Jan 31 02:52:17 symfony [info] {sfWebDebugLogger} Factories 26.34 ms (1)
+Jan 31 02:52:17 symfony [info] {sfWebDebugLogger} Action "wiki/index" 129.87 ms (1)
+Jan 31 02:53:53 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 02:53:53 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 02:53:53 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 02:53:53 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 02:53:53 symfony [warning] {sfWebDebugLogger}  Warning at /home/cocoiti/cocowiki/apps/frontend/lib/myWiki.class.php on line 25 (mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists)
+Jan 31 02:53:53 symfony [warning] {sfWebDebugLogger}  Warning at /home/cocoiti/cocowiki/lib/git/VersionControl/Git/Util/Command.php on line 216 (chdir() [<a href='function.chdir'>function.chdir</a>]: Permission denied (errno 13))
+Jan 31 02:53:53 symfony [err] {VersionControl_Git_Exception} Some errors in executing git command: 
+Jan 31 02:53:53 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Jan 31 02:53:53 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 02:53:53 symfony [info] {sfWebDebugLogger} Configuration 68.30 ms (10)
+Jan 31 02:53:53 symfony [info] {sfWebDebugLogger} Factories 28.84 ms (1)
+Jan 31 02:53:53 symfony [info] {sfWebDebugLogger} Action "wiki/index" 125.43 ms (1)
+Jan 31 02:54:12 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 02:54:12 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 02:54:12 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 02:54:12 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 02:54:12 symfony [warning] {sfWebDebugLogger}  Warning at /home/cocoiti/cocowiki/apps/frontend/lib/myWiki.class.php on line 25 (mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists)
+Jan 31 02:54:12 symfony [warning] {sfWebDebugLogger}  Warning at /home/cocoiti/cocowiki/lib/git/VersionControl/Git/Util/Command.php on line 216 (chdir() [<a href='function.chdir'>function.chdir</a>]: Permission denied (errno 13))
+Jan 31 02:54:12 symfony [err] {VersionControl_Git_Exception} Some errors in executing git command: 
+Jan 31 02:54:12 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Jan 31 02:54:12 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 02:54:12 symfony [info] {sfWebDebugLogger} Configuration 179.03 ms (9)
+Jan 31 02:54:12 symfony [info] {sfWebDebugLogger} Factories 89.21 ms (1)
+Jan 31 02:54:12 symfony [info] {sfWebDebugLogger} Action "wiki/index" 126.84 ms (1)
+Jan 31 02:55:49 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 02:55:49 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 02:55:49 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 02:55:49 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 02:55:49 symfony [warning] {sfWebDebugLogger}  Warning at /home/cocoiti/cocowiki/apps/frontend/lib/myWiki.class.php on line 24 (chmod() [<a href='function.chmod'>function.chmod</a>]: No such file or directory)
+Jan 31 02:55:49 symfony [warning] {sfWebDebugLogger}  Warning at /home/cocoiti/cocowiki/apps/frontend/lib/myWiki.class.php on line 27 (mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists)
+Jan 31 02:55:49 symfony [warning] {sfWebDebugLogger}  Warning at /home/cocoiti/cocowiki/lib/git/VersionControl/Git/Util/Command.php on line 216 (chdir() [<a href='function.chdir'>function.chdir</a>]: Permission denied (errno 13))
+Jan 31 02:55:49 symfony [err] {VersionControl_Git_Exception} Some errors in executing git command: 
+Jan 31 02:55:49 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Jan 31 02:55:49 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 02:55:49 symfony [info] {sfWebDebugLogger} Configuration 67.87 ms (10)
+Jan 31 02:55:49 symfony [info] {sfWebDebugLogger} Factories 28.66 ms (1)
+Jan 31 02:55:49 symfony [info] {sfWebDebugLogger} Action "wiki/index" 137.78 ms (1)
+Jan 31 02:56:08 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 02:56:08 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 02:56:08 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 02:56:08 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 02:56:08 symfony [warning] {sfWebDebugLogger}  Warning at /home/cocoiti/cocowiki/apps/frontend/lib/myWiki.class.php on line 24 (chmod() [<a href='function.chmod'>function.chmod</a>]: No such file or directory)
+Jan 31 02:56:08 symfony [warning] {sfWebDebugLogger}  Warning at /home/cocoiti/cocowiki/apps/frontend/lib/myWiki.class.php on line 27 (mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists)
+Jan 31 02:56:08 symfony [warning] {sfWebDebugLogger}  Warning at /home/cocoiti/cocowiki/lib/git/VersionControl/Git/Util/Command.php on line 216 (chdir() [<a href='function.chdir'>function.chdir</a>]: Permission denied (errno 13))
+Jan 31 02:56:08 symfony [err] {VersionControl_Git_Exception} Some errors in executing git command: 
+Jan 31 02:56:08 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Jan 31 02:56:08 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 02:56:08 symfony [info] {sfWebDebugLogger} Configuration 62.02 ms (10)
+Jan 31 02:56:08 symfony [info] {sfWebDebugLogger} Factories 24.51 ms (1)
+Jan 31 02:56:08 symfony [info] {sfWebDebugLogger} Action "wiki/index" 133.15 ms (1)
+Jan 31 02:56:19 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 02:56:19 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 02:56:19 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 02:56:19 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 02:56:50 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 02:56:50 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 02:56:50 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 02:56:50 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 02:56:50 symfony [warning] {sfWebDebugLogger}  Warning at /home/cocoiti/cocowiki/apps/frontend/lib/myWiki.class.php on line 23 (chmod() [<a href='function.chmod'>function.chmod</a>]: No such file or directory)
+Jan 31 02:56:50 symfony [warning] {sfWebDebugLogger}  Warning at /home/cocoiti/cocowiki/apps/frontend/lib/myWiki.class.php on line 26 (mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists)
+Jan 31 02:56:50 symfony [warning] {sfWebDebugLogger}  Warning at /home/cocoiti/cocowiki/lib/git/VersionControl/Git/Util/Command.php on line 216 (chdir() [<a href='function.chdir'>function.chdir</a>]: Permission denied (errno 13))
+Jan 31 02:56:50 symfony [err] {VersionControl_Git_Exception} Some errors in executing git command: 
+Jan 31 02:56:50 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Jan 31 02:56:50 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 02:56:50 symfony [info] {sfWebDebugLogger} Configuration 178.86 ms (9)
+Jan 31 02:56:50 symfony [info] {sfWebDebugLogger} Factories 77.09 ms (1)
+Jan 31 02:56:50 symfony [info] {sfWebDebugLogger} Action "wiki/index" 126.32 ms (1)
+Jan 31 02:57:46 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 02:57:46 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 02:57:46 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 02:57:46 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 02:57:46 symfony [warning] {sfWebDebugLogger}  Warning at /home/cocoiti/cocowiki/lib/git/VersionControl/Git/Util/Command.php on line 216 (chdir() [<a href='function.chdir'>function.chdir</a>]: Permission denied (errno 13))
+Jan 31 02:57:46 symfony [err] {VersionControl_Git_Exception} Some errors in executing git command: 
+Jan 31 02:57:46 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Jan 31 02:57:46 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 02:57:46 symfony [info] {sfWebDebugLogger} Configuration 65.93 ms (10)
+Jan 31 02:57:46 symfony [info] {sfWebDebugLogger} Factories 26.31 ms (1)
+Jan 31 02:57:46 symfony [info] {sfWebDebugLogger} Action "wiki/index" 132.65 ms (1)
+Jan 31 02:57:53 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 02:57:53 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 02:57:53 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 02:57:53 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 02:58:12 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 02:58:12 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 02:58:12 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 02:58:12 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 02:58:40 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 02:58:40 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 02:58:40 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 02:58:40 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 02:59:25 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 02:59:25 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 02:59:25 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 02:59:25 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 02:59:47 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 02:59:47 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 02:59:47 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 02:59:47 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 02:59:47 symfony [warning] {sfWebDebugLogger}  Warning at /home/cocoiti/cocowiki/lib/git/VersionControl/Git/Util/Command.php on line 216 (chdir() [<a href='function.chdir'>function.chdir</a>]: Permission denied (errno 13))
+Jan 31 02:59:47 symfony [err] {VersionControl_Git_Exception} Some errors in executing git command: 
+Jan 31 02:59:47 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Jan 31 02:59:47 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 02:59:47 symfony [info] {sfWebDebugLogger} Configuration 65.24 ms (10)
+Jan 31 02:59:47 symfony [info] {sfWebDebugLogger} Factories 27.62 ms (1)
+Jan 31 02:59:47 symfony [info] {sfWebDebugLogger} Action "wiki/index" 148.33 ms (1)
+Jan 31 03:01:36 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 03:01:36 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 03:01:36 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 03:01:36 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 03:01:36 symfony [warning] {sfWebDebugLogger}  Warning at /home/cocoiti/cocowiki/lib/git/VersionControl/Git/Util/Command.php on line 216 (chdir() [<a href='function.chdir'>function.chdir</a>]: Permission denied (errno 13))
+Jan 31 03:01:36 symfony [err] {VersionControl_Git_Exception} Some errors in executing git command: 
+Jan 31 03:01:36 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Jan 31 03:01:36 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 03:01:36 symfony [info] {sfWebDebugLogger} Configuration 63.75 ms (10)
+Jan 31 03:01:36 symfony [info] {sfWebDebugLogger} Factories 24.31 ms (1)
+Jan 31 03:01:36 symfony [info] {sfWebDebugLogger} Action "wiki/index" 136.73 ms (1)
+Jan 31 03:03:06 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 03:03:06 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 03:03:06 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 03:03:06 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 03:06:34 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 03:06:34 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 03:06:34 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 03:06:34 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 03:06:34 symfony [info] {sfTwigView} Render "/home/cocoiti/cocowiki/apps/frontend/modules/wiki/templates/indexSuccess.html".
+Jan 31 03:06:34 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jan 31 03:06:34 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 03:06:34 symfony [info] {sfWebDebugLogger} Configuration 118.06 ms (9)
+Jan 31 03:06:34 symfony [info] {sfWebDebugLogger} Factories 84.89 ms (1)
+Jan 31 03:06:34 symfony [info] {sfWebDebugLogger} Action "wiki/index" 5.25 ms (1)
+Jan 31 03:06:34 symfony [info] {sfWebDebugLogger} View "Success" for "wiki/index" 18.51 ms (1)
+Jan 31 03:06:34 symfony [info] {sfWebResponse} Send content (36341 o)
+Jan 31 03:07:50 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 03:07:50 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 03:07:50 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 03:07:50 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 03:07:50 symfony [info] {sfTwigView} Render "/home/cocoiti/cocowiki/apps/frontend/modules/wiki/templates/indexSuccess.html".
+Jan 31 03:07:50 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jan 31 03:07:50 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 03:07:50 symfony [info] {sfWebDebugLogger} Configuration 1.27 ms (9)
+Jan 31 03:07:50 symfony [info] {sfWebDebugLogger} Factories 24.35 ms (1)
+Jan 31 03:07:50 symfony [info] {sfWebDebugLogger} Action "wiki/index" 4.25 ms (1)
+Jan 31 03:07:50 symfony [info] {sfWebDebugLogger} View "Success" for "wiki/index" 13.39 ms (1)
+Jan 31 03:07:50 symfony [info] {sfWebResponse} Send content (36338 o)
+Jan 31 03:09:49 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 03:09:49 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 03:09:49 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 03:09:49 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 03:09:58 symfony [warning] {sfWebDebugLogger}  Warning at /home/cocoiti/cocowiki/apps/frontend/lib/myWiki.class.php on line 24 (chmod() [<a href='function.chmod'>function.chmod</a>]: No such file or directory)
+Jan 31 03:09:58 symfony [info] {sfTwigView} Render "/home/cocoiti/cocowiki/apps/frontend/modules/wiki/templates/indexSuccess.html".
+Jan 31 03:09:58 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jan 31 03:09:58 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 03:09:58 symfony [info] {sfWebDebugLogger} Configuration 115.31 ms (9)
+Jan 31 03:09:58 symfony [info] {sfWebDebugLogger} Factories 72.01 ms (1)
+Jan 31 03:09:58 symfony [info] {sfWebDebugLogger} Action "wiki/index" 8509.30 ms (1)
+Jan 31 03:09:58 symfony [info] {sfWebDebugLogger} View "Success" for "wiki/index" 29.06 ms (1)
+Jan 31 03:09:58 symfony [info] {sfWebResponse} Send content (36344 o)
+Jan 31 03:11:56 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 03:11:57 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 03:11:57 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 03:11:57 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 03:12:05 symfony [warning] {sfWebDebugLogger}  Warning at /home/cocoiti/cocowiki/apps/frontend/lib/myWiki.class.php on line 24 (chmod() [<a href='function.chmod'>function.chmod</a>]: No such file or directory)
+Jan 31 03:12:05 symfony [info] {sfTwigView} Render "/home/cocoiti/cocowiki/apps/frontend/modules/wiki/templates/indexSuccess.html".
+Jan 31 03:12:05 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jan 31 03:12:05 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 03:12:05 symfony [info] {sfWebDebugLogger} Configuration 1.17 ms (9)
+Jan 31 03:12:05 symfony [info] {sfWebDebugLogger} Factories 24.63 ms (1)
+Jan 31 03:12:05 symfony [info] {sfWebDebugLogger} Action "wiki/index" 8472.32 ms (1)
+Jan 31 03:12:05 symfony [info] {sfWebDebugLogger} View "Success" for "wiki/index" 17.57 ms (1)
+Jan 31 03:12:05 symfony [info] {sfWebResponse} Send content (36342 o)
+Jan 31 03:17:48 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 03:17:49 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 03:17:49 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 03:17:49 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 03:17:49 symfony [info] {sfTwigView} Render "/home/cocoiti/cocowiki/apps/frontend/modules/wiki/templates/indexSuccess.html".
+Jan 31 03:17:49 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jan 31 03:17:49 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 03:17:49 symfony [info] {sfWebDebugLogger} Configuration 1.48 ms (9)
+Jan 31 03:17:49 symfony [info] {sfWebDebugLogger} Factories 27.09 ms (1)
+Jan 31 03:17:49 symfony [info] {sfWebDebugLogger} Action "wiki/index" 899.42 ms (1)
+Jan 31 03:17:49 symfony [info] {sfWebDebugLogger} View "Success" for "wiki/index" 19.57 ms (1)
+Jan 31 03:17:49 symfony [info] {sfWebResponse} Send content (36340 o)
+Jan 31 03:17:52 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 03:17:52 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 03:17:52 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 03:17:52 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 03:17:53 symfony [info] {sfTwigView} Render "/home/cocoiti/cocowiki/apps/frontend/modules/wiki/templates/indexSuccess.html".
+Jan 31 03:17:53 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jan 31 03:17:53 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 03:17:53 symfony [info] {sfWebDebugLogger} Configuration 1.14 ms (9)
+Jan 31 03:17:53 symfony [info] {sfWebDebugLogger} Factories 25.46 ms (1)
+Jan 31 03:17:53 symfony [info] {sfWebDebugLogger} Action "wiki/index" 968.06 ms (1)
+Jan 31 03:17:53 symfony [info] {sfWebDebugLogger} View "Success" for "wiki/index" 18.47 ms (1)
+Jan 31 03:17:53 symfony [info] {sfWebResponse} Send content (36341 o)
+Jan 31 03:18:29 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 03:18:29 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 03:18:29 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 03:18:29 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 03:18:31 symfony [info] {sfTwigView} Render "/home/cocoiti/cocowiki/apps/frontend/modules/wiki/templates/indexSuccess.html".
+Jan 31 03:18:31 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jan 31 03:18:31 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 03:18:31 symfony [info] {sfWebDebugLogger} Configuration 1.53 ms (9)
+Jan 31 03:18:31 symfony [info] {sfWebDebugLogger} Factories 27.77 ms (1)
+Jan 31 03:18:31 symfony [info] {sfWebDebugLogger} Action "wiki/index" 1264.26 ms (1)
+Jan 31 03:18:31 symfony [info] {sfWebDebugLogger} View "Success" for "wiki/index" 17.75 ms (1)
+Jan 31 03:18:31 symfony [info] {sfWebResponse} Send content (36342 o)
+Jan 31 03:18:52 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 03:18:52 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 03:18:52 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 03:18:52 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 03:38:15 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 03:38:15 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 03:38:15 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 03:38:15 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 03:39:14 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 03:39:14 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 03:39:14 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 03:39:14 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 03:39:14 symfony [info] {sfTwigView} Render "/home/cocoiti/cocowiki/apps/frontend/modules/wiki/templates/indexSuccess.html".
+Jan 31 03:39:15 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jan 31 03:39:15 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 03:39:15 symfony [info] {sfWebDebugLogger} Configuration 13.25 ms (10)
+Jan 31 03:39:15 symfony [info] {sfWebDebugLogger} Factories 27.88 ms (1)
+Jan 31 03:39:15 symfony [info] {sfWebDebugLogger} Action "wiki/index" 898.61 ms (1)
+Jan 31 03:39:15 symfony [info] {sfWebDebugLogger} View "Success" for "wiki/index" 34.41 ms (1)
+Jan 31 03:39:15 symfony [info] {sfWebResponse} Send content (36350 o)
+Jan 31 03:59:31 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 03:59:31 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 03:59:31 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 03:59:31 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 03:59:32 symfony [info] {sfTwigView} Render "/home/cocoiti/cocowiki/apps/frontend/modules/wiki/templates/indexSuccess.html".
+Jan 31 03:59:32 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jan 31 03:59:32 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 03:59:32 symfony [info] {sfWebDebugLogger} Configuration 12.24 ms (10)
+Jan 31 03:59:32 symfony [info] {sfWebDebugLogger} Factories 28.04 ms (1)
+Jan 31 03:59:32 symfony [info] {sfWebDebugLogger} Action "wiki/index" 1025.81 ms (1)
+Jan 31 03:59:32 symfony [info] {sfWebDebugLogger} View "Success" for "wiki/index" 22.30 ms (1)
+Jan 31 03:59:32 symfony [info] {sfWebResponse} Send content (36400 o)
+Jan 31 04:00:19 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 04:00:19 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 04:00:19 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 04:00:19 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 04:00:20 symfony [info] {sfTwigView} Render "/home/cocoiti/cocowiki/apps/frontend/modules/wiki/templates/indexSuccess.html".
+Jan 31 04:00:20 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jan 31 04:00:20 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 04:00:20 symfony [info] {sfWebDebugLogger} Configuration 1.52 ms (9)
+Jan 31 04:00:20 symfony [info] {sfWebDebugLogger} Factories 25.00 ms (1)
+Jan 31 04:00:20 symfony [info] {sfWebDebugLogger} Action "wiki/index" 1363.59 ms (1)
+Jan 31 04:00:20 symfony [info] {sfWebDebugLogger} View "Success" for "wiki/index" 18.60 ms (1)
+Jan 31 04:00:20 symfony [info] {sfWebResponse} Send content (36366 o)
+Jan 31 04:04:16 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 04:04:16 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 04:04:16 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 04:04:16 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 04:04:16 symfony [err] {sfException} Call to undefined method wikiActions::getParameter.
+Jan 31 04:04:16 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Jan 31 04:04:16 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 04:04:16 symfony [info] {sfWebDebugLogger} Configuration 1.17 ms (8)
+Jan 31 04:04:16 symfony [info] {sfWebDebugLogger} Factories 31.28 ms (1)
+Jan 31 04:04:16 symfony [info] {sfWebDebugLogger} Action "wiki/index" 33.59 ms (1)
+Jan 31 04:04:32 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 04:04:32 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 04:04:32 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 04:04:32 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 04:04:32 symfony [warning] {sfWebDebugLogger}  Warning at /home/cocoiti/cocowiki/apps/frontend/lib/myWiki.class.php on line 45 (filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for /home/cocoiti/cocowiki/cache/frontend/dev/myUpdateFile)
+Jan 31 04:05:34 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 04:05:34 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 04:05:34 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 04:05:34 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 04:05:52 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 04:05:52 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 04:05:52 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 04:05:52 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 04:05:52 symfony [warning] {sfWebDebugLogger}  Warning at /home/cocoiti/cocowiki/apps/frontend/lib/myWiki.class.php on line 3 (include_once(/home/cocoiti/cocowiki/apps/frontend/lib/../lib/HatenaSyntax.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory)
+Jan 31 04:05:52 symfony [warning] {sfWebDebugLogger}  Warning at /home/cocoiti/cocowiki/apps/frontend/lib/myWiki.class.php on line 3 (include_once() [<a href='function.include'>function.include</a>]: Failed opening '/home/cocoiti/cocowiki/apps/frontend/lib/../lib/HatenaSyntax.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php:/home/cocoiti/cocowiki/lib/git'))
+Jan 31 04:06:32 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 04:06:32 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 04:06:32 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 04:06:32 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 04:06:32 symfony [info] {sfTwigView} Render "/home/cocoiti/cocowiki/apps/frontend/modules/wiki/templates/indexSuccess.html".
+Jan 31 04:06:32 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jan 31 04:06:32 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 04:06:32 symfony [info] {sfWebDebugLogger} Configuration 1.03 ms (9)
+Jan 31 04:06:32 symfony [info] {sfWebDebugLogger} Factories 25.99 ms (1)
+Jan 31 04:06:32 symfony [info] {sfWebDebugLogger} Action "wiki/index" 107.22 ms (1)
+Jan 31 04:06:32 symfony [info] {sfWebDebugLogger} View "Success" for "wiki/index" 17.17 ms (1)
+Jan 31 04:06:32 symfony [info] {sfWebResponse} Send content (36459 o)
+Jan 31 04:07:24 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 04:07:24 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 04:07:24 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 04:07:24 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 04:07:24 symfony [info] {sfTwigView} Render "/home/cocoiti/cocowiki/apps/frontend/modules/wiki/templates/indexSuccess.html".
+Jan 31 04:07:24 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jan 31 04:07:24 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 04:07:24 symfony [info] {sfWebDebugLogger} Configuration 1.17 ms (9)
+Jan 31 04:07:24 symfony [info] {sfWebDebugLogger} Factories 26.80 ms (1)
+Jan 31 04:07:24 symfony [info] {sfWebDebugLogger} Action "wiki/index" 20.93 ms (1)
+Jan 31 04:07:24 symfony [info] {sfWebDebugLogger} View "Success" for "wiki/index" 34.64 ms (1)
+Jan 31 04:07:24 symfony [info] {sfWebResponse} Send content (36425 o)
+Jan 31 04:07:52 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 04:07:52 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 04:07:52 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 04:07:52 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 04:07:52 symfony [notice] {sfWebDebugLogger}  Notice at /home/cocoiti/cocowiki/apps/frontend/modules/wiki/actions/actions.class.php on line 27 (Undefined variable: html)
+Jan 31 04:07:52 symfony [info] {sfTwigView} Render "/home/cocoiti/cocowiki/apps/frontend/modules/wiki/templates/indexSuccess.html".
+Jan 31 04:07:52 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jan 31 04:07:52 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 04:07:52 symfony [info] {sfWebDebugLogger} Configuration 1.39 ms (9)
+Jan 31 04:07:52 symfony [info] {sfWebDebugLogger} Factories 25.19 ms (1)
+Jan 31 04:07:52 symfony [info] {sfWebDebugLogger} Action "wiki/index" 19.95 ms (1)
+Jan 31 04:07:52 symfony [info] {sfWebDebugLogger} View "Success" for "wiki/index" 17.92 ms (1)
+Jan 31 04:07:52 symfony [info] {sfWebResponse} Send content (36425 o)
+Jan 31 04:08:01 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 04:08:01 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 04:08:01 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 04:08:01 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 04:08:01 symfony [info] {sfTwigView} Render "/home/cocoiti/cocowiki/apps/frontend/modules/wiki/templates/indexSuccess.html".
+Jan 31 04:08:01 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jan 31 04:08:01 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 04:08:01 symfony [info] {sfWebDebugLogger} Configuration 1.56 ms (9)
+Jan 31 04:08:01 symfony [info] {sfWebDebugLogger} Factories 23.86 ms (1)
+Jan 31 04:08:01 symfony [info] {sfWebDebugLogger} Action "wiki/index" 21.85 ms (1)
+Jan 31 04:08:01 symfony [info] {sfWebDebugLogger} View "Success" for "wiki/index" 15.84 ms (1)
+Jan 31 04:08:01 symfony [info] {sfWebResponse} Send content (36425 o)
+Jan 31 04:08:14 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 04:08:14 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 04:08:14 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 04:08:14 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 04:08:14 symfony [info] {sfTwigView} Render "/home/cocoiti/cocowiki/apps/frontend/modules/wiki/templates/indexSuccess.html".
+Jan 31 04:08:14 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jan 31 04:08:14 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 04:08:14 symfony [info] {sfWebDebugLogger} Configuration 1.38 ms (9)
+Jan 31 04:08:14 symfony [info] {sfWebDebugLogger} Factories 24.93 ms (1)
+Jan 31 04:08:14 symfony [info] {sfWebDebugLogger} Action "wiki/index" 20.24 ms (1)
+Jan 31 04:08:14 symfony [info] {sfWebDebugLogger} View "Success" for "wiki/index" 17.26 ms (1)
+Jan 31 04:08:14 symfony [info] {sfWebResponse} Send content (36425 o)
+Jan 31 04:08:43 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 04:08:43 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 04:08:43 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 04:08:43 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 04:08:50 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 04:08:50 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 04:08:50 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 04:08:50 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 04:08:50 symfony [info] {sfTwigView} Render "/home/cocoiti/cocowiki/apps/frontend/modules/wiki/templates/indexSuccess.html".
+Jan 31 04:08:50 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jan 31 04:08:50 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 04:08:50 symfony [info] {sfWebDebugLogger} Configuration 1.07 ms (9)
+Jan 31 04:08:50 symfony [info] {sfWebDebugLogger} Factories 34.75 ms (1)
+Jan 31 04:08:50 symfony [info] {sfWebDebugLogger} Action "wiki/index" 22.75 ms (1)
+Jan 31 04:08:50 symfony [info] {sfWebDebugLogger} View "Success" for "wiki/index" 19.11 ms (1)
+Jan 31 04:08:50 symfony [info] {sfWebResponse} Send content (36425 o)
+Jan 31 04:10:02 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 04:10:02 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 04:10:02 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 04:10:02 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 04:10:02 symfony [info] {sfTwigView} Render "/home/cocoiti/cocowiki/apps/frontend/modules/wiki/templates/indexSuccess.html".
+Jan 31 04:10:02 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jan 31 04:10:02 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 04:10:02 symfony [info] {sfWebDebugLogger} Configuration 1.22 ms (9)
+Jan 31 04:10:02 symfony [info] {sfWebDebugLogger} Factories 25.87 ms (1)
+Jan 31 04:10:02 symfony [info] {sfWebDebugLogger} Action "wiki/index" 23.65 ms (1)
+Jan 31 04:10:02 symfony [info] {sfWebDebugLogger} View "Success" for "wiki/index" 18.80 ms (1)
+Jan 31 04:10:02 symfony [info] {sfWebResponse} Send content (36587 o)
+Jan 31 04:10:50 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 04:10:50 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 04:10:50 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 04:10:50 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 04:10:50 symfony [info] {sfTwigView} Render "/home/cocoiti/cocowiki/apps/frontend/modules/wiki/templates/indexSuccess.html".
+Jan 31 04:10:50 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jan 31 04:10:50 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 04:10:50 symfony [info] {sfWebDebugLogger} Configuration 1.50 ms (9)
+Jan 31 04:10:50 symfony [info] {sfWebDebugLogger} Factories 24.44 ms (1)
+Jan 31 04:10:50 symfony [info] {sfWebDebugLogger} Action "wiki/index" 23.15 ms (1)
+Jan 31 04:10:50 symfony [info] {sfWebDebugLogger} View "Success" for "wiki/index" 14.76 ms (1)
+Jan 31 04:10:50 symfony [info] {sfWebResponse} Send content (36587 o)
+Jan 31 04:11:34 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 04:11:34 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 04:11:34 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 04:11:34 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 04:11:34 symfony [info] {sfTwigView} Render "/home/cocoiti/cocowiki/apps/frontend/modules/wiki/templates/indexSuccess.html".
+Jan 31 04:11:34 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jan 31 04:11:34 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 04:11:34 symfony [info] {sfWebDebugLogger} Configuration 1.94 ms (9)
+Jan 31 04:11:34 symfony [info] {sfWebDebugLogger} Factories 26.40 ms (1)
+Jan 31 04:11:34 symfony [info] {sfWebDebugLogger} Action "wiki/index" 22.70 ms (1)
+Jan 31 04:11:34 symfony [info] {sfWebDebugLogger} View "Success" for "wiki/index" 14.63 ms (1)
+Jan 31 04:11:34 symfony [info] {sfWebResponse} Send content (36587 o)
+Jan 31 04:18:40 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 04:18:40 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 04:18:40 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 04:18:40 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 04:18:41 symfony [info] {sfTwigView} Render "/home/cocoiti/cocowiki/apps/frontend/modules/wiki/templates/indexSuccess.html".
+Jan 31 04:18:41 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jan 31 04:18:41 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 04:18:41 symfony [info] {sfWebDebugLogger} Configuration 118.19 ms (9)
+Jan 31 04:18:41 symfony [info] {sfWebDebugLogger} Factories 75.86 ms (1)
+Jan 31 04:18:41 symfony [info] {sfWebDebugLogger} Action "wiki/index" 1174.28 ms (1)
+Jan 31 04:18:41 symfony [info] {sfWebDebugLogger} View "Success" for "wiki/index" 23.65 ms (1)
+Jan 31 04:18:41 symfony [info] {sfWebResponse} Send content (36521 o)
+Jan 31 04:19:39 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 04:19:39 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 04:19:39 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 04:19:39 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 04:19:40 symfony [info] {sfTwigView} Render "/home/cocoiti/cocowiki/apps/frontend/modules/wiki/templates/indexSuccess.html".
+Jan 31 04:19:40 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jan 31 04:19:40 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 04:19:40 symfony [info] {sfWebDebugLogger} Configuration 1.39 ms (9)
+Jan 31 04:19:40 symfony [info] {sfWebDebugLogger} Factories 26.46 ms (1)
+Jan 31 04:19:40 symfony [info] {sfWebDebugLogger} Action "wiki/index" 1029.88 ms (1)
+Jan 31 04:19:40 symfony [info] {sfWebDebugLogger} View "Success" for "wiki/index" 18.40 ms (1)
+Jan 31 04:19:40 symfony [info] {sfWebResponse} Send content (36551 o)
+Jan 31 04:20:01 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 04:20:01 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 04:20:01 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 04:20:01 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 04:20:02 symfony [info] {sfTwigView} Render "/home/cocoiti/cocowiki/apps/frontend/modules/wiki/templates/indexSuccess.html".
+Jan 31 04:20:02 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jan 31 04:20:02 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 04:20:02 symfony [info] {sfWebDebugLogger} Configuration 1.09 ms (9)
+Jan 31 04:20:02 symfony [info] {sfWebDebugLogger} Factories 26.55 ms (1)
+Jan 31 04:20:02 symfony [info] {sfWebDebugLogger} Action "wiki/index" 1023.36 ms (1)
+Jan 31 04:20:02 symfony [info] {sfWebDebugLogger} View "Success" for "wiki/index" 18.36 ms (1)
+Jan 31 04:20:02 symfony [info] {sfWebResponse} Send content (36551 o)
+Jan 31 04:20:09 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 04:20:09 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 04:20:09 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 04:20:09 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 04:20:10 symfony [info] {sfTwigView} Render "/home/cocoiti/cocowiki/apps/frontend/modules/wiki/templates/indexSuccess.html".
+Jan 31 04:20:10 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jan 31 04:20:10 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 04:20:10 symfony [info] {sfWebDebugLogger} Configuration 1.48 ms (9)
+Jan 31 04:20:10 symfony [info] {sfWebDebugLogger} Factories 25.59 ms (1)
+Jan 31 04:20:10 symfony [info] {sfWebDebugLogger} Action "wiki/index" 1000.06 ms (1)
+Jan 31 04:20:10 symfony [info] {sfWebDebugLogger} View "Success" for "wiki/index" 18.03 ms (1)
+Jan 31 04:20:10 symfony [info] {sfWebResponse} Send content (36551 o)
+Jan 31 04:20:18 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 04:20:18 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 04:20:18 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 04:20:18 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 04:20:19 symfony [info] {sfTwigView} Render "/home/cocoiti/cocowiki/apps/frontend/modules/wiki/templates/indexSuccess.html".
+Jan 31 04:20:19 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jan 31 04:20:19 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 04:20:19 symfony [info] {sfWebDebugLogger} Configuration 1.07 ms (9)
+Jan 31 04:20:19 symfony [info] {sfWebDebugLogger} Factories 25.25 ms (1)
+Jan 31 04:20:19 symfony [info] {sfWebDebugLogger} Action "wiki/index" 914.85 ms (1)
+Jan 31 04:20:19 symfony [info] {sfWebDebugLogger} View "Success" for "wiki/index" 17.81 ms (1)
+Jan 31 04:20:19 symfony [info] {sfWebResponse} Send content (36550 o)
+Jan 31 04:20:25 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 04:20:25 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 04:20:25 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 04:20:25 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 04:20:26 symfony [info] {sfTwigView} Render "/home/cocoiti/cocowiki/apps/frontend/modules/wiki/templates/indexSuccess.html".
+Jan 31 04:20:26 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jan 31 04:20:26 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 04:20:26 symfony [info] {sfWebDebugLogger} Configuration 1.39 ms (9)
+Jan 31 04:20:26 symfony [info] {sfWebDebugLogger} Factories 26.00 ms (1)
+Jan 31 04:20:26 symfony [info] {sfWebDebugLogger} Action "wiki/index" 904.25 ms (1)
+Jan 31 04:20:26 symfony [info] {sfWebDebugLogger} View "Success" for "wiki/index" 18.26 ms (1)
+Jan 31 04:20:26 symfony [info] {sfWebResponse} Send content (36549 o)
+Jan 31 04:21:02 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 04:21:02 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 04:21:02 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 04:21:02 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 04:21:03 symfony [info] {sfTwigView} Render "/home/cocoiti/cocowiki/apps/frontend/modules/wiki/templates/indexSuccess.html".
+Jan 31 04:21:03 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jan 31 04:21:03 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 04:21:03 symfony [info] {sfWebDebugLogger} Configuration 1.04 ms (9)
+Jan 31 04:21:03 symfony [info] {sfWebDebugLogger} Factories 25.33 ms (1)
+Jan 31 04:21:03 symfony [info] {sfWebDebugLogger} Action "wiki/index" 891.69 ms (1)
+Jan 31 04:21:03 symfony [info] {sfWebDebugLogger} View "Success" for "wiki/index" 18.13 ms (1)
+Jan 31 04:21:03 symfony [info] {sfWebResponse} Send content (36549 o)
+Jan 31 04:23:59 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 04:23:59 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 04:23:59 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 04:23:59 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 04:24:00 symfony [info] {sfTwigView} Render "/home/cocoiti/cocowiki/apps/frontend/modules/wiki/templates/indexSuccess.html".
+Jan 31 04:24:00 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jan 31 04:24:00 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 04:24:00 symfony [info] {sfWebDebugLogger} Configuration 127.60 ms (9)
+Jan 31 04:24:00 symfony [info] {sfWebDebugLogger} Factories 81.85 ms (1)
+Jan 31 04:24:00 symfony [info] {sfWebDebugLogger} Action "wiki/index" 515.05 ms (1)
+Jan 31 04:24:00 symfony [info] {sfWebDebugLogger} View "Success" for "wiki/index" 46.04 ms (1)
+Jan 31 04:24:00 symfony [info] {sfWebResponse} Send content (36565 o)
+Jan 31 04:24:30 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 04:24:30 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 04:24:30 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 04:24:30 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 04:24:30 symfony [err] {VersionControl_Git_Exception} Some errors in executing git command: 
+Jan 31 04:24:30 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Jan 31 04:24:30 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 04:24:30 symfony [info] {sfWebDebugLogger} Configuration 1.16 ms (8)
+Jan 31 04:24:30 symfony [info] {sfWebDebugLogger} Factories 27.85 ms (1)
+Jan 31 04:24:30 symfony [info] {sfWebDebugLogger} Action "wiki/index" 251.45 ms (1)
+Jan 31 04:25:48 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 04:25:48 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 04:25:48 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 04:25:48 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 04:25:48 symfony [err] {VersionControl_Git_Exception} Some errors in executing git command: 
+Jan 31 04:25:48 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Jan 31 04:25:48 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 04:25:48 symfony [info] {sfWebDebugLogger} Configuration 1.14 ms (8)
+Jan 31 04:25:48 symfony [info] {sfWebDebugLogger} Factories 28.32 ms (1)
+Jan 31 04:25:48 symfony [info] {sfWebDebugLogger} Action "wiki/index" 153.89 ms (1)
+Jan 31 04:27:13 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 04:27:13 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 04:27:13 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 04:27:13 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 04:29:07 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 04:29:07 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 04:29:07 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 04:29:07 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 04:29:08 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 04:29:08 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 04:29:08 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 04:29:08 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 04:29:36 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 04:29:36 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 04:29:36 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 04:29:36 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 04:29:38 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 04:29:38 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 04:29:38 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 04:29:38 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 04:30:14 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 04:30:14 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 04:30:14 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 04:30:14 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 04:30:14 symfony [info] {sfTwigView} Render "/home/cocoiti/cocowiki/apps/frontend/modules/wiki/templates/indexSuccess.html".
+Jan 31 04:30:15 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jan 31 04:30:15 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 04:30:15 symfony [info] {sfWebDebugLogger} Configuration 1.35 ms (9)
+Jan 31 04:30:15 symfony [info] {sfWebDebugLogger} Factories 28.90 ms (1)
+Jan 31 04:30:15 symfony [info] {sfWebDebugLogger} Action "wiki/index" 263.55 ms (1)
+Jan 31 04:30:15 symfony [info] {sfWebDebugLogger} View "Success" for "wiki/index" 48.53 ms (1)
+Jan 31 04:30:15 symfony [info] {sfWebResponse} Send content (36582 o)
+Jan 31 04:30:17 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 04:30:17 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 04:30:17 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 04:30:17 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 04:30:18 symfony [info] {sfTwigView} Render "/home/cocoiti/cocowiki/apps/frontend/modules/wiki/templates/indexSuccess.html".
+Jan 31 04:30:18 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jan 31 04:30:18 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 04:30:18 symfony [info] {sfWebDebugLogger} Configuration 1.10 ms (9)
+Jan 31 04:30:18 symfony [info] {sfWebDebugLogger} Factories 25.87 ms (1)
+Jan 31 04:30:18 symfony [info] {sfWebDebugLogger} Action "wiki/index" 248.71 ms (1)
+Jan 31 04:30:18 symfony [info] {sfWebDebugLogger} View "Success" for "wiki/index" 16.34 ms (1)
+Jan 31 04:30:18 symfony [info] {sfWebResponse} Send content (36581 o)
+Jan 31 04:30:32 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 04:30:32 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 04:30:32 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 04:30:32 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 04:30:32 symfony [info] {sfTwigView} Render "/home/cocoiti/cocowiki/apps/frontend/modules/wiki/templates/indexSuccess.html".
+Jan 31 04:30:32 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jan 31 04:30:32 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 04:30:32 symfony [info] {sfWebDebugLogger} Configuration 1.04 ms (9)
+Jan 31 04:30:32 symfony [info] {sfWebDebugLogger} Factories 25.61 ms (1)
+Jan 31 04:30:32 symfony [info] {sfWebDebugLogger} Action "wiki/index" 253.52 ms (1)
+Jan 31 04:30:32 symfony [info] {sfWebDebugLogger} View "Success" for "wiki/index" 17.97 ms (1)
+Jan 31 04:30:32 symfony [info] {sfWebResponse} Send content (36581 o)
+Jan 31 04:30:47 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 04:30:47 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 04:30:47 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 04:30:47 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 04:30:47 symfony [info] {sfTwigView} Render "/home/cocoiti/cocowiki/apps/frontend/modules/wiki/templates/indexSuccess.html".
+Jan 31 04:30:47 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jan 31 04:30:47 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 04:30:47 symfony [info] {sfWebDebugLogger} Configuration 1.34 ms (9)
+Jan 31 04:30:47 symfony [info] {sfWebDebugLogger} Factories 26.03 ms (1)
+Jan 31 04:30:47 symfony [info] {sfWebDebugLogger} Action "wiki/index" 261.65 ms (1)
+Jan 31 04:30:47 symfony [info] {sfWebDebugLogger} View "Success" for "wiki/index" 18.02 ms (1)
+Jan 31 04:30:47 symfony [info] {sfWebResponse} Send content (36581 o)
+Jan 31 04:30:50 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 04:30:50 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 04:30:50 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 04:30:50 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 04:30:50 symfony [info] {sfTwigView} Render "/home/cocoiti/cocowiki/apps/frontend/modules/wiki/templates/indexSuccess.html".
+Jan 31 04:30:50 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jan 31 04:30:50 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 04:30:50 symfony [info] {sfWebDebugLogger} Configuration 1.47 ms (9)
+Jan 31 04:30:50 symfony [info] {sfWebDebugLogger} Factories 25.10 ms (1)
+Jan 31 04:30:50 symfony [info] {sfWebDebugLogger} Action "wiki/index" 268.37 ms (1)
+Jan 31 04:30:50 symfony [info] {sfWebDebugLogger} View "Success" for "wiki/index" 18.91 ms (1)
+Jan 31 04:30:50 symfony [info] {sfWebResponse} Send content (36581 o)
+Jan 31 04:31:03 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /wiki with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 04:31:03 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 04:31:03 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 04:31:03 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 04:31:03 symfony [info] {sfTwigView} Render "/home/cocoiti/cocowiki/apps/frontend/modules/wiki/templates/indexSuccess.html".
+Jan 31 04:31:03 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jan 31 04:31:03 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 04:31:03 symfony [info] {sfWebDebugLogger} Configuration 1.73 ms (9)
+Jan 31 04:31:03 symfony [info] {sfWebDebugLogger} Factories 26.03 ms (1)
+Jan 31 04:31:03 symfony [info] {sfWebDebugLogger} Action "wiki/index" 343.72 ms (1)
+Jan 31 04:31:03 symfony [info] {sfWebDebugLogger} View "Success" for "wiki/index" 18.71 ms (1)
+Jan 31 04:31:03 symfony [info] {sfWebResponse} Send content (36591 o)
+Jan 31 04:34:42 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'wiki',  'action' => 'index',)
+Jan 31 04:34:42 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 04:34:42 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 04:34:42 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 04:34:42 symfony [info] {sfTwigView} Render "/home/cocoiti/cocowiki/apps/frontend/modules/wiki/templates/indexSuccess.html".
+Jan 31 04:34:42 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jan 31 04:34:42 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 04:34:42 symfony [info] {sfWebDebugLogger} Configuration 42.79 ms (10)
+Jan 31 04:34:42 symfony [info] {sfWebDebugLogger} Factories 106.42 ms (1)
+Jan 31 04:34:42 symfony [info] {sfWebDebugLogger} Action "wiki/index" 270.86 ms (1)
+Jan 31 04:34:42 symfony [info] {sfWebDebugLogger} View "Success" for "wiki/index" 20.44 ms (1)
+Jan 31 04:34:42 symfony [info] {sfWebResponse} Send content (36535 o)
+Jan 31 04:34:45 symfony [info] {sfPatternRouting} Match route "wiki" (/:pagename) for /aaa with parameters array (  'module' => 'wiki',  'action' => 'index',  'pagename' => 'aaa',)
+Jan 31 04:34:45 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jan 31 04:34:45 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jan 31 04:34:45 symfony [info] {wikiActions} Call "wikiActions->executeIndex()"
+Jan 31 04:34:45 symfony [err] {sfError404Exception} aaa
+Jan 31 04:34:45 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Jan 31 04:34:45 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jan 31 04:34:45 symfony [info] {sfWebDebugLogger} Configuration 0.90 ms (8)
+Jan 31 04:34:45 symfony [info] {sfWebDebugLogger} Factories 28.20 ms (1)
+Jan 31 04:34:45 symfony [info] {sfWebDebugLogger} Action "wiki/index" 277.68 ms (1)

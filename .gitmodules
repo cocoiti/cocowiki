@@ -1,0 +1,6 @@
+[submodule "plugins/sfTwigPlugin"]
+	path = plugins/sfTwigPlugin
+	url = git://github.com/henrikbjorn/sfTwigPlugin.git
+[submodule "lib/git"]
+	path = lib/git
+	url = git://github.com/ebihara/VersionControl_Git.git
